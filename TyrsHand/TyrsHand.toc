@@ -1,0 +1,9 @@
+## Interface: 120000
+## Title: 提尔之手 | Tyr's Hand
+## Notes: Lua error history and addon inventory for troubleshooting.
+## Author: Tyr's Hand contributors
+## Version: 0.1.0
+## SavedVariables: TyrsHandDB
+
+Core.lua
+Main.lua
